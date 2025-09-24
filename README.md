@@ -1,1 +1,1 @@
-[Open in Jupyter Notebook](./VD_workflow.ipynb)
+Open in [Jupyter Notebook](./VD_workflow.ipynb)
